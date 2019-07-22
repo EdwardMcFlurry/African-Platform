@@ -1,0 +1,11 @@
+﻿Major Version
+Minor Version
+Build Number
+Revision
+
+E.g. v3.5.2.1
+
+22 Jul 2019 - v1.0.0.0
+By: Edward Tumi McFlurry
+* Intial ASP.NET Core Razor Pages project has been added as the first application in this solution.
+* It was therefore fired and Registered one User as a way to Test the Database functionality with its Migrations system.
